@@ -1,0 +1,1 @@
+Program testing, operations on GIT, implementation of new projects
